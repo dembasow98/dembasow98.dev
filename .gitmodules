@@ -1,0 +1,4 @@
+[submodule "portfolio/public"]
+	path = portfolio/public
+	url = https://github.com/dembasow98/dembasow98.github.io.git
+	branch = main
